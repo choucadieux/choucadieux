@@ -18,9 +18,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=choucadieux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-Attention : Cela ne reflete pas mon vraie niveau en Python et en Rust, si vous voulez voir une partie de mon niveau en traitement du signal avec Python, vous pouvez aller voir mon compte Kaggle, je ne publie jamais les résultats car il me manque de la puissance de calcule et du temps de travail dessus. 
+<div style="border-left: 6px solid #f39c12; background-color: #fcf8e3; padding: 10px; margin: 10px 0;">
+  <strong>⚠️ Attention :</strong> Cela ne reflete pas mon vraie niveau en Python et en Rust, si vous voulez voir une partie de mon niveau en traitement du signal avec Python, vous pouvez aller voir mon compte Kaggle, je ne publie jamais les résultats car il me manque de la puissance de calcule et du temps de travail dessus. 
+</div>
 
 ### Objectif de ce Repo
 
 L'objectif de ce Repo est d'avoir des outils gratuit pour la gestion de projet. Suite, à mon école d'ingénieur au Mines de Saint Etiennes et à deux alternances dans deux compagnies différentes j'ai pue constaté que les outils de gestion de projet, sont soit innexistant, soit coûte relativement chère pour un résultat final qui n'est pas présent. 
 L'objectif de ces outils et d'avoir une base pour ensuite être rajouter dans différentes applications. 
+
+
